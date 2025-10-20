@@ -56,6 +56,15 @@ Example screenshots below demonstrate expected functionality.
 
 ## Screenshots
 
+### Cat Details Page
+![Cat Details](_figures/step10.png)
+
+### Adoption Basket
+![Adoption Basket](_figures/step6.png)
+
+### No cats available for adoption
+![Home Page](_figures/step9.png)
+
 ---
 
 ## Learning Outcomes
@@ -68,4 +77,5 @@ Example screenshots below demonstrate expected functionality.
 ---
 
 ## Author
+
 Ali Alturifi
