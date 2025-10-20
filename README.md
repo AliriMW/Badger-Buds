@@ -78,4 +78,5 @@ Example screenshots below demonstrate expected functionality.
 
 ## Author
 
-Ali Alturifi
+Ali Alturaifi
+
